@@ -1,0 +1,26 @@
+Types of Export in NodeJs
+1. Default Export 
+				default keyward
+2. Named Export
+	   2.1 module.exports = {} JS object
+			 2.2 export
+
+
+    name
+			surname
+			addr
+			mobno
+
+
+		  fulldetail :'anil dollor neemuch 98797987'
+
+
+			app.get(routename,mwfn1,cbfn)
+
+
+Assignment on Escape character
+
+
+/\/\/\/\/\/\/\
+
+https://www.w3schools.com/js/js_object_properties.asp
